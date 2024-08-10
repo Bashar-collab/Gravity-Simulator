@@ -22,7 +22,7 @@ Welcome to the Simulation of Newton's Law of Universal Gravitation project! This
 ```
   cd Gravity-Simulator
 ```
-3- Run Force8.3.py file ( Make sure you installed appropriate libraries and dependencies) 
+3- Run Force8.3.py file (Make sure you installed appropriate libraries and dependencies) 
 
 Enjoy!
 
@@ -41,7 +41,7 @@ Enjoy!
   where 𝑎, 𝑐, and 𝑚 are constants, and 𝑋 is the sequence of pseudo-random values.
 
 ## Screenshots
-Here we have 20 balls attracting each other ( time is acclerated in order show effects of objects attracting each other! ) 
+Here we have 20 balls attracting each other (time is acclerated in order show effects of objects attracting each other!) 
 ![8-10-2024 (18-36-37)](https://github.com/user-attachments/assets/290789ee-5039-4a77-a91f-c25eec352b5a)
 
 ## Contributing
