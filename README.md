@@ -2,11 +2,11 @@
 Welcome to the Simulation of Newton's Law of Universal Gravitation project! This application simulates the gravitational force between masses using Newton's law of universal gravitation. It employs a Linear Congruential Generator (LCG) algorithm to generate pseudo-random values for variables such as the distance between objects, mass of the object, and starting position of objects. This README file will guide you through the setup, usage, and features of the project.
 
 ## Table of Contents
-- [Features]($Features)
-- [Installation]($Installation)
-- [Notes]($Notes)
-- [Screenshots]($Screenshots)
-- [Contributing]($Contributing)
+- [Features](#Features)
+- [Installation](#Installation)
+- [Notes](#Notes)
+- [Screenshots](#Screenshots)
+- [Contributing](#Contributing)
 
 ## Features
 - <b>Simulation of Gravitational Force</b>: Simulates the gravitational force between masses based on Newton's law of universal gravitation.
